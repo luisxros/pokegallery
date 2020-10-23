@@ -59,6 +59,7 @@ main {
     box-shadow: 1px 1px 12px 1px var(--shadow-grey-light);
     font-size: 25px;
     font-family: var(--logo-font);
+    text-transform: capitalize;
 }
 
 .card:hover {
