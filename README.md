@@ -14,4 +14,13 @@ a simple web application that displays pokemon data using a pokemon api
 
 ## ScreenShots
 
-! [wireframe](./imgs/wireframe.png)
+![wireframe](./imgs/wireframe.png)
+
+## Getting Started
+
+[Click here](#) to see the deployed app!
+
+## Future Enhancements
+- The ability to favorite and save pokemon to localstorage
+
+
